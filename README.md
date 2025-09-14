@@ -26,9 +26,13 @@ The techniques of Advanced Statistics that employs ANOVA, Exploratory Data Analy
 
 > scipy.stats<br>
 
-> statsmodels.formula.api
+> statsmodels.formula.api<br>
 
-> statsmodels.stats.anova
+> statsmodels.stats.anova<br>
+
+> sklearn.decomposition<br>
+
+> factor_analyzer<br>
 
 ## How to run the code?
 - Fork & Clone the repository
